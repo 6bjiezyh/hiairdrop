@@ -9,9 +9,9 @@ string_mask        = utf8only
 prompt             = no
 
 [ subject ]
-organizationName = Snapdrop
+organizationName = HiAirDrop
 OU               = CA
-commonName       = snapdrop-CA
+commonName       = hiAirDrop-CA
 
 [ x509_ext ]
 subjectKeyIdentifier      = hash
