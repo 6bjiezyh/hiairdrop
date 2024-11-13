@@ -299,3 +299,13 @@ Object.defineProperty(String.prototype, "hashCode", {
 });
 
 const server = new HiAirServer(process.env.PORT || 3000);
+
+// Based on Snapdrop (https://github.com/RobinLinus/snapdrop)
+// Original Copyright (C) RobinLinus - All Rights Reserved
+// Licensed under GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.html)
+
+// Modified by HE YANG (2024/03/13)
+// Modifications:
+// - name changed to HiAirDrop
+// - port changed to IP address
+// - no signup, no setup, totally free

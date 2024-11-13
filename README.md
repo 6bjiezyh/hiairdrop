@@ -1,34 +1,42 @@
-# Snapdrop 
+# HiAirdrop
 
-[Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
+基于 [Snapdrop](https://snapdrop.net) 项目修改，原项目由 RobinLinus 开发。
+本项目遵循 GNU GPL v3 许可证。
 
+## 修改内容
 
-#### Snapdrop is built with the following awesome technologies:
-* Vanilla HTML5 / ES6 / CSS3 frontend
-* [WebRTC](http://webrtc.org/) / [WebSockets](http://www.websocket.org/)
-* [NodeJS](https://nodejs.org/en/) backend
-* [Progressive Web App](https://wikipedia.org/wiki/Progressive_Web_App)
+- name changed to HiAirDrop
+- port changed to IP address
+- no signup, no setup, totally free
 
+## 技术栈
 
-Have any questions? Read our [FAQ](/docs/faq.md).
+- Vanilla HTML5 / ES6 / CSS3 前端
+- [WebRTC](http://webrtc.org/) / [WebSockets](http://www.websocket.org/)
+- [NodeJS](https://nodejs.org/en/) 后端
+- [Progressive Web App](https://wikipedia.org/wiki/Progressive_Web_App)
 
-You can [host your own instance with Docker](/docs/local-dev.md).
+## 部署说明
 
+## 常见问题
 
-## Support the Snapdrop Community
-Snapdrop is free. Still, we have to pay for the server. If you want to contribute, please use PayPal:
+查看 [FAQ](/docs/faq.md)
 
-[<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=MG8GV7YCYT352)
+## 版权说明
 
-or Bitcoin:
+- 原项目版权归 RobinLinus 所有
+- 本项目修改部分版权归 HE YANG 所有
+- 基于 GNU GPL v3 许可证开源
 
-[<img src="https://coins.github.io/thx/logo-color-large-pill-320px.png" alt="CoinThx" width="200"/>](https://coins.github.io/thx/#1K9zQ8f4iTyhKyHWmiDKt21cYX2QSDckWB?label=Snapdrop&message=Thanks!%20Your%20contribution%20helps%20to%20keep%20Snapdrop%20free%20for%20everybody!) 
+## 源码获取
 
-[Bitcoin Lighting](https://tippin.me/@robin_linus)
+- GitHub: [https://github.com/he-yang/HiAirdrop](https://github.com/hyzeijb6/HiAirdrop)
+- 原项目: [https://github.com/RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
 
-Alternatively, you can become a [Github Sponsor](https://github.com/sponsors/RobinLinus).
+## 贡献指南
 
-Thanks a lot for supporting free and open software!
+欢迎提交 Issue 和 Pull Request
 
+## 联系方式
 
- 
+[571962631@qq.com](mailto:571962631@qq.com)
