@@ -296,9 +296,16 @@ footer {
 }
 
 footer .logo {
-  --icon-size: 80px;
+  height: 80px;
+  width: 80px;
   margin-bottom: 8px;
   color: var(--primary-color);
+}
+
+.about-logo {
+  height: 80px;
+  width: 80px;
+  margin-bottom: 8px;
 }
 
 footer .font-body2 {
