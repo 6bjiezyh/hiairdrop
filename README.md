@@ -2,6 +2,8 @@
 
 [HiAirDrop](https://hiairdrop.com): local file sharing in your browser. Inspired by Apple's Airdrop.
 
+> 本项目基于 [SnapDrop](https://github.com/SnapDrop/snapdrop) 进行二次开发和改进。
+
 #### HiAirDrop is built with the following awesome technologies:
 
 - Vanilla HTML5 / ES6 / CSS3 frontend
